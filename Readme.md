@@ -1,5 +1,5 @@
  </h1> 
-<p align="center">𝙹𝚘𝚎𝚕 𝚖𝚍 𝚅 5.𝟶.𝟶
+<p align="center">TREX MD.𝟶.𝟶
  
   
 
@@ -40,7 +40,7 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐅𝐎𝐑𝐊+𝐓𝐇𝐈𝐒+𝐑𝐄𝐏𝐎)](https://git.io/typing-svg)
 
-<a href="https://github.com/joeljamestech/JOEL-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://github.com/berabotsmd/TREX-MD-/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
 
 
@@ -61,7 +61,7 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐆𝐄𝐓+𝐒𝐄𝐒𝐒𝐈𝐎𝐍+𝐈𝐃)](https://git.io/typing-svg)
 
 
-<a href="https://pairjpel-1fc26f537dd3.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIR CODE-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://professional-kitty-goutammallick516-86803e18.koyeb.app/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIR CODE-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
  
 
